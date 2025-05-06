@@ -7,8 +7,9 @@ import { TRPCReactProvider } from "~/trpc/react";
 import { ThemeProvider } from "~/components/theme-provider";
 
 export const metadata: Metadata = {
-  title: "cronhost",
-  description: "cronhost",
+  title: "Free & Reliable Cron Job Webhook Scheduler | cronhost",
+  description:
+    "Stop wrestling with crontabs! cronhost offers free, reliable cron scheduling for webhooks. Easy UI, custom requests, auto-retries & insightful monitoring. Sign up free!",
   icons: [{ rel: "icon", url: "/logo.svg" }],
 };
 
