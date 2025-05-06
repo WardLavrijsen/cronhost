@@ -1,3 +1,5 @@
+"use client";
+
 import { IconDotsVertical } from "@tabler/icons-react";
 import { Pause, Play } from "lucide-react";
 import { useRouter } from "next/navigation";
